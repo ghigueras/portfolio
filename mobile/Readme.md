@@ -86,7 +86,7 @@ The project is based on optimizing financial resources and improving end-user ex
 
 An adaptive approach is used to quickly respond to error reports and usability needs.
 
-- **Methodology:** Scrum (based on user work history).
+- **Methodology:** Scrum.
 - **Life Cycle:** Incremental, focused on short development cycles that allow stabilizing the application and progressively reducing bugs.
 - **Cadence:** Biweekly sprints with reviews focused on technical performance and user satisfaction.
 
