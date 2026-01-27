@@ -2,7 +2,7 @@
 
 **Project portfolio as a PO/PM**
 
-## Perfil Ejecutivo: Product Owner / Project Manager (Agile Specialist)
+## Product Owner / Project Manager (Agile Specialist)
 
 Profesional con una sólida trayectoria en el liderazgo de proyectos tecnológicos complejos, especializado en la aplicación del marco de trabajo Scrum para transformar la visión de negocio en productos de alto impacto. Mi enfoque combina la agilidad operativa con una visión estratégica orientada a la usabilidad (UX), la eficiencia de costes y la apertura de nuevas oportunidades de mercado.
 
