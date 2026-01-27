@@ -20,7 +20,7 @@ El proyecto se fundamenta en la optimización de recursos financieros y la mejor
 
 Se utiliza un enfoque adaptativo para responder rápidamente a los reportes de errores y las necesidades de usabilidad.
 
-- **Metodología:** Scrum (basado en el historial de trabajo del usuario).
+- **Metodología:** Scrum.
 - **Ciclo de vida:** Incremental, centrado en ciclos cortos de desarrollo que permitan estabilizar la aplicación y reducir bugs de forma progresiva.
 - **Cadencia:** Sprints quincenales con revisiones enfocadas en el rendimiento técnico y la satisfacción del usuario.
 
