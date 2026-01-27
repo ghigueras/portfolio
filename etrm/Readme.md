@@ -111,7 +111,7 @@ The purpose of this project is not just a technological update, but the commerci
 
 Given the competitive environment and need for speed, an agile model is chosen.
 
-- **Methodology:** Scrum. [1, History]
+- **Methodology:** Scrum.
 - **Delivery Cadence:** Incremental deliveries every 2-4 weeks (Sprints), culminating in an MVP at 6 months.
 - **Life Cycle:** Adaptive, allowing backlog adjustments according to specific requirements identified in RFPs during development.
 
@@ -123,13 +123,13 @@ Given the competitive environment and need for speed, an agile model is chosen.
 - **Key Roles:**
   - **Product Owner:** Responsible for prioritizing the backlog based on usability requirements and RFPs.
   - **Development Team:** Angular developers and UX specialists.
-  - **Project Manager/Scrum Master:** Process facilitator and impediment remover. [History]
+  - **Project Manager/Scrum Master:** Process facilitator and impediment remover.
 
 ### B. Planning Domain
 
 - **Main Milestones:**
   - **Month 1:** Angular architecture definition and initial UX prototyping.
-  - **Month 2-5:** Incremental development of critical ETRM modules under Scrum. [1, History]
+  - **Month 2-5:** Incremental development of critical ETRM modules under Scrum.
   - **Month 6:** Final testing, usability polish, and MVP launch.
 
 ### C. Delivery Domain
