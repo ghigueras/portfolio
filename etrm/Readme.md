@@ -74,3 +74,81 @@ Para evaluar el rendimiento del proyecto, se utilizarán los siguientes indicado
 | Time-to-Market | Entrega del MVP en un plazo máximo de 6 meses. |
 | Usabilidad | Evaluación positiva de los especialistas UX y feedback de preventa. |
 | Comercial | Número de RFPs en las que el producto es elegible técnicamente. |
+
+---------------------------
+
+# ETRM Product Modernization (Energy Sector)
+
+This project highlights your ability to lead technological transition focused on commercial competitiveness.
+
+- **Objective:** Modernize a legacy application to improve its usability and success in tenders (RFPs).
+- **Scope:** Migration to an Angular Web App and UX design integration to transform the user experience.
+- **Methodology:** Scrum (with a small, highly efficient team).
+- **KPIs:** MVP delivery time and RFP eligibility ratio.
+- **Result:** Delivery of a functional MVP in just 6 months, enabling immediate participation in public and private tenders.
+
+---
+
+## Project Management Plan: ETRM Modernization
+
+**Product:** ETRM (Energy Trading and Risk Management)  
+**Approach:** Agile / Scrum  
+**Main Goal:** Functional MVP for RFPs in 6 months
+
+---
+
+## 1. Value Delivery System
+
+The purpose of this project is not just a technological update, but the commercial enablement of the company.
+
+- **Business Objective:** Increase success rate in tenders (RFPs) through a competitive technological offering.
+- **Scope:**
+  - Complete migration from legacy architecture to a native Angular Web App.
+  - User interface redesign integrating UX specialists.
+- **Expected Result:** A product with high usability and cutting-edge technology that eliminates technical entry barriers in public and private tenders.
+
+## 2. Development Approach and Life Cycle Performance Domain
+
+Given the competitive environment and need for speed, an agile model is chosen.
+
+- **Methodology:** Scrum. [1, History]
+- **Delivery Cadence:** Incremental deliveries every 2-4 weeks (Sprints), culminating in an MVP at 6 months.
+- **Life Cycle:** Adaptive, allowing backlog adjustments according to specific requirements identified in RFPs during development.
+
+## 3. Performance Domain Planning
+
+### A. Team Performance Domain
+
+- **Structure:** Small, highly efficient multidisciplinary team.
+- **Key Roles:**
+  - **Product Owner:** Responsible for prioritizing the backlog based on usability requirements and RFPs.
+  - **Development Team:** Angular developers and UX specialists.
+  - **Project Manager/Scrum Master:** Process facilitator and impediment remover. [History]
+
+### B. Planning Domain
+
+- **Main Milestones:**
+  - **Month 1:** Angular architecture definition and initial UX prototyping.
+  - **Month 2-5:** Incremental development of critical ETRM modules under Scrum. [1, History]
+  - **Month 6:** Final testing, usability polish, and MVP launch.
+
+### C. Delivery Domain
+
+- **Quality:** Quality is measured through usability. The inclusion of UX experts ensures that the product not only functions but meets the aesthetic and functional standards demanded in current markets.
+- **Definition of Done (DoD):** Migrated code, UX design applied, integration tests passed, and technical documentation updated.
+
+## 4. Uncertainty and Risk Management
+
+- **Technological Risk:** Possible incompatibilities between the legacy system and Angular.
+  - **Mitigation:** Proof of concept (PoC) in the first month.
+- **Market Risk:** That the MVP doesn't cover all points of a specific RFP.
+  - **Mitigation:** The Product Owner will maintain close contact with the sales team to prioritize the backlog.
+
+## 5. Success Metrics and KPIs (Measurement Domain)
+
+| KPI | Success Metric |
+|-----|----------------|
+| Time-to-Market | MVP delivery within a maximum of 6 months. |
+| Usability | Positive evaluation from UX specialists and pre-sales feedback. |
+| Commercial | Number of RFPs in which the product is technically eligible. |
+
