@@ -1,5 +1,5 @@
 # Portfolio
-
+(English version below)
 **Project portfolio as a PO/PM**
 
 ## Product Owner / Project Manager (Agile Specialist)
@@ -17,7 +17,7 @@ Profesional con una sólida trayectoria en el liderazgo de proyectos tecnológic
 - **Liderazgo Scrum:** A lo largo de mi carrera, he utilizado de forma consistente la metodología Scrum para gestionar backlogs, facilitar la entrega incremental de valor y fomentar la mejora continua en equipos multidisciplinares.
 
 
-# -----------------------------------------------------------------------------------
+# --------------------------------
 
 **Project portfolio as a PO/PM**
 
