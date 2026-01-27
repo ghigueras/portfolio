@@ -1,5 +1,6 @@
 # Portfolio
 (English version below)
+
 **Project portfolio as a PO/PM**
 
 ## Product Owner / Project Manager (Agile Specialist)
