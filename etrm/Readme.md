@@ -32,7 +32,7 @@ El propósito de este proyecto no es solo una actualización tecnológica, sino 
 
 Dado el entorno competitivo y la necesidad de rapidez, se opta por un modelo ágil.
 
-- **Metodología:** Scrum. [1, Historial]
+- **Metodología:** Scrum.
 - **Cadencia de entrega:** Entregas incrementales cada 2-4 semanas (Sprints), culminando en un MVP a los 6 meses.
 - **Ciclo de vida:** Adaptativo, permitiendo ajustes en el backlog según los requisitos específicos que se identifiquen en las RFPs durante el desarrollo.
 
@@ -44,13 +44,13 @@ Dado el entorno competitivo y la necesidad de rapidez, se opta por un modelo ág
 - **Roles Clave:**
   - **Product Owner:** Responsable de priorizar el backlog basándose en los requisitos de usabilidad y RFPs.
   - **Equipo de Desarrollo:** Desarrolladores Angular y especialistas en UX.
-  - **Project Manager/Scrum Master:** Facilitador de procesos y eliminador de impedimentos. [Historial]
+  - **Project Manager/Scrum Master:** Facilitador de procesos y eliminador de impedimentos.
 
 ### B. Dominio de la Planificación (Planning Domain)
 
 - **Hitos principales:**
   - **Mes 1:** Definición de arquitectura en Angular y prototipado UX inicial.
-  - **Mes 2-5:** Desarrollo incremental de módulos críticos del ETRM bajo Scrum. [1, Historial]
+  - **Mes 2-5:** Desarrollo incremental de módulos críticos del ETRM bajo Scrum.
   - **Mes 6:** Pruebas finales, pulido de usabilidad y lanzamiento del MVP.
 
 ### C. Dominio de Entrega (Delivery Domain)
