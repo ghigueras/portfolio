@@ -29,9 +29,9 @@ Dado que el ecosistema de APIs requiere integraciones externas, se utiliza un ci
 
 ### A. Gestión del Equipo (Team Performance Domain)
 
-- **Product Owner:** Define los requisitos de los datos necesarios para los clientes B2B y prioriza el desarrollo de las APIs.
+- **Product Manager:** Define los requisitos de los datos necesarios para los clientes B2B y prioriza el desarrollo de las APIs.
 - **Equipo de Desarrollo:** Ingenieros de datos y desarrolladores de backend especializados en APIs.
-- **Scrum Master:** Facilita la coordinación para asegurar la consistencia de los datos entregados.
+- **Engineer Manager:** Facilita la coordinación para asegurar la consistencia de los datos entregados.
 
 ### B. Dominio de la Planificación (Planning Domain)
 
