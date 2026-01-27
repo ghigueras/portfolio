@@ -59,3 +59,72 @@ Se utiliza un enfoque adaptativo para responder rápidamente a los reportes de e
 | Coste por Dispositivo | Reducción porcentual en la inversión de hardware necesaria para operar. |
 | Tasa de Errores (Bug Rate) | Disminución en el volumen de incidencias técnicas reportadas por los usuarios finales. |
 | User Satisfaction | Mejora cualitativa y cuantitativa en los índices de usabilidad de la aplicación. |
+
+------------------------------
+
+---
+
+# Project Management Plan: Android Platform Optimization
+
+**Product:** Mobile Application (Native Android Version)  
+**Approach:** Agile / Scrum  
+**Main Goal:** Reduction of operational costs and improvement of software stability.
+
+---
+
+## 1. Value Delivery System
+
+The project is based on optimizing financial resources and improving end-user experience through a native technological solution.
+
+- **Business Objective:** Decrease investment in hardware (mobile devices) and strengthen user confidence through a more robust product.
+- **Scope:**
+  - Development and implementation of the native version for the Android operating system.
+  - Optimization of internal processes to ensure compatibility with lower-cost devices.
+- **Expected Result:** A high-quality product with a minimum error rate and a sustainable cost structure.
+
+## 2. Development Approach and Life Cycle Performance Domain
+
+An adaptive approach is used to quickly respond to error reports and usability needs.
+
+- **Methodology:** Scrum (based on user work history).
+- **Life Cycle:** Incremental, focused on short development cycles that allow stabilizing the application and progressively reducing bugs.
+- **Cadence:** Biweekly sprints with reviews focused on technical performance and user satisfaction.
+
+## 3. Performance Domain Planning
+
+### A. Team Performance Domain
+
+- **Key Roles:**
+  - **Product Owner:** In charge of prioritizing critical errors and usability improvements in the Product Backlog.
+  - **Development Team:** Android specialist developers.
+  - **Scrum Master:** Responsible for ensuring that ceremonies streamline bug resolution.
+
+### B. Planning Domain
+
+- **Technical Priorities:**
+  - Hardware compatibility analysis for device cost reduction.
+  - Identification and prioritization of critical bugs reported by end users.
+  - Interface improvement design to optimize usability on Android screens.
+
+### C. Project Work & Delivery Domain
+
+- **Quality Management:** Exhaustive focus on reducing technical debt. Each software increment must pass stability tests to ensure reduction of reported bugs.
+- **Efficiency:** Work is oriented so that the application is functional on more economical devices, thus meeting the hardware cost reduction objective.
+
+## 4. Uncertainty Domain Management
+
+- **Fragmentation Risk:** Diversity of Android versions and devices.
+  - **Mitigation:** Selection of a technology stack that guarantees compatibility with a wide range of economical devices.
+- **Usability Risk:** That the platform change affects user experience.
+  - **Mitigation:** Continuous usability testing and rapid feedback cycles.
+
+## 5. Success Metrics and KPIs (Measurement Domain)
+
+| KPI | Success Indicator |
+|-----|------------------|
+| Cost per Device | Percentage reduction in hardware investment necessary to operate. |
+| Bug Rate | Decrease in the volume of technical incidents reported by end users. |
+| User Satisfaction | Qualitative and quantitative improvement in application usability indices. |
+
+---
+
