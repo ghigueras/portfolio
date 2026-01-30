@@ -11,7 +11,7 @@ Profesional con una sólida trayectoria en el liderazgo de proyectos tecnológic
 
 - **Modernización y Estrategia de Producto:** Experto en liderar la migración de sistemas legacy hacia arquitecturas modernas, priorizando la integración de especialistas en UX para maximizar la competitividad en procesos de RFP. Cuento con la capacidad probada de entregar MVPs funcionales en plazos cortos (6 meses), permitiendo una rápida validación de mercado.
 
-- **Eficiencia Operativa en Entornos Mobile:** Capacidad demostrada para impulsar el desarrollo de aplicaciones nativas (Android) con el doble objetivo de reducir costes operativos de hardware y elevar la calidad del software, logrando una disminución tangible en los reportes de bugs por parte del usuario final.
+- **Eficiencia Operativa en Entornos Mobile:** Capacidad demostrada para impulsar el desarrollo de aplicaciones nativas (Android / iOS) con el doble objetivo de reducir costes operativos de hardware y elevar la calidad del software, logrando una disminución tangible en los reportes de bugs por parte del usuario final.
 
 - **Escalabilidad B2B y Ecosistemas de Datos:** Especialista en adaptar productos para el sector corporativo, liderando el desarrollo de servicios de datos exclusivos y ecosistemas de APIs que permiten a los clientes B2B gestionar información crítica de forma rápida y eficiente.
 
