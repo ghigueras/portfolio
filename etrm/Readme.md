@@ -1,154 +1,96 @@
-# Modernización de Producto ETRM (Sector Energía)
+# ETRM Platform Modernization
+**Energy Sector | Product Owner & Project Manager | 2010-2018**
 
-Este proyecto destaca tu capacidad para liderar la transición tecnológica enfocada a la competitividad comercial.
+## Context
+A leading Spanish technology consultancy serving national energy operators had 
+a legacy ETRM (Energy Trading and Risk Management) system that was limiting its 
+competitiveness in public and private tenders. The outdated architecture and 
+poor usability were creating technical entry barriers in RFP processes, directly 
+impacting revenue opportunities.
 
-- **Objetivo:** Modernizar una aplicación legacy para mejorar su usabilidad y éxito en licitaciones (RFPs).
-- **Alcance:** Migración a una Web App en Angular e integración de diseño UX para transformar la experiencia del usuario.
-- **Metodología:** Scrum (con un equipo pequeño de alta eficiencia).
-- **KPIs:** Tiempo de entrega del MVP y ratio de elegibilidad en RFPs.
-- **Resultado:** Entrega de un MVP funcional en solo 6 meses, permitiendo la participación inmediata en concursos públicos y privados.
+## My Role
+Product Owner and Project Manager responsible for the end-to-end modernisation 
+of the platform, from architecture definition to MVP delivery, leading a 
+multidisciplinary team of up to 12 engineers, analysts and UX designers.
 
----
+## Approach
+Applied Scrum with an adaptive lifecycle allowing backlog adjustments based on 
+specific RFP requirements identified during development. Integrated UX 
+specialists from the start to ensure the product met both functional and 
+aesthetic standards demanded in competitive tender processes. Maintained close 
+alignment with the sales team to prioritise features with highest commercial 
+impact.
 
-## Project Management Plan: ETRM Modernization
+## Key Deliverables
+- Full migration from legacy architecture to a modern Angular web application
+- Complete UI/UX redesign integrating specialist designers throughout the 
+development process
+- Functional MVP delivered in 6 months, enabling immediate participation in 
+public and private tenders
+- Standardised functional design and technology architecture across the Energy 
+department application portfolio
+- Component reusability framework aligned with organisational architecture 
+roadmap
 
-**Producto:** ETRM (Energy Trading and Risk Management)  
-**Enfoque:** Agile / Scrum  
-**Meta Principal:** MVP funcional para RFPs en 6 meses
+## Results
+- 75% increase in RFP win rate driven by improved usability and modern 
+technology stack
+- MVP delivered within 6-month target, enabling immediate commercial eligibility
+- 40% improvement in time-to-market through agile practices implemented in 
+traditionally waterfall teams
+- Multi-year programme successfully executed without disrupting live business 
+operations
 
----
-
-## 1. Sistema de Entrega de Valor (Value Delivery System)
-
-El propósito de este proyecto no es solo una actualización tecnológica, sino la habilitación comercial de la compañía.
-
-- **Objetivo de Negocio:** Incrementar la tasa de éxito en licitaciones (RFPs) mediante una oferta tecnológica competitiva.
-- **Alcance:**
-  - Migración completa de la arquitectura legacy a una Web App nativa en Angular.
-  - Rediseño de la interfaz de usuario integrando especialistas en UX.
-- **Resultado esperado:** Un producto con alta usabilidad y tecnología de vanguardia que elimine las barreras de entrada técnicas en concursos públicos y privados.
-
-## 2. Dominio de Desempeño del Enfoque de Desarrollo y Ciclo de Vida
-
-Dado el entorno competitivo y la necesidad de rapidez, se opta por un modelo ágil.
-
-- **Metodología:** Scrum.
-- **Cadencia de entrega:** Entregas incrementales cada 2-4 semanas (Sprints), culminando en un MVP a los 6 meses.
-- **Ciclo de vida:** Adaptativo, permitiendo ajustes en el backlog según los requisitos específicos que se identifiquen en las RFPs durante el desarrollo.
-
-## 3. Planificación de los Dominios de Desempeño
-
-### A. Gestión del Equipo (Team Performance Domain)
-
-- **Estructura:** Equipo pequeño y multidisciplinar de alta eficiencia.
-- **Roles Clave:**
-  - **Product Owner:** Responsable de priorizar el backlog basándose en los requisitos de usabilidad y RFPs.
-  - **Equipo de Desarrollo:** Desarrolladores Angular y especialistas en UX.
-  - **Project Manager/Scrum Master:** Facilitador de procesos y eliminador de impedimentos.
-
-### B. Dominio de la Planificación (Planning Domain)
-
-- **Hitos principales:**
-  - **Mes 1:** Definición de arquitectura en Angular y prototipado UX inicial.
-  - **Mes 2-5:** Desarrollo incremental de módulos críticos del ETRM bajo Scrum.
-  - **Mes 6:** Pruebas finales, pulido de usabilidad y lanzamiento del MVP.
-
-### C. Dominio de Entrega (Delivery Domain)
-
-- **Calidad:** La calidad se mide a través de la usabilidad. La inclusión de expertos en UX asegura que el producto no solo funcione, sino que cumpla con los estándares estéticos y funcionales exigidos en los mercados actuales.
-- **Definición de Hecho (DoD):** Código migrado, diseño UX aplicado, tests de integración superados y documentación técnica actualizada.
-
-## 4. Gestión de la Incertidumbre y Riesgos
-
-- **Riesgo Tecnológico:** Posibles incompatibilidades entre el sistema legacy y Angular.
-  - **Mitigación:** Pruebas de concepto (PoC) en el primer mes.
-- **Riesgo de Mercado:** Que el MVP no cubra todos los puntos de una RFP específica.
-  - **Mitigación:** El Product Owner mantendrá un contacto estrecho con el equipo comercial para priorizar el backlog.
-
-## 5. Métricas y KPIs de Éxito (Measurement Domain)
-
-Para evaluar el rendimiento del proyecto, se utilizarán los siguientes indicadores:
-
-| KPI | Métrica de Éxito |
-|-----|------------------|
-| Time-to-Market | Entrega del MVP en un plazo máximo de 6 meses. |
-| Usabilidad | Evaluación positiva de los especialistas UX y feedback de preventa. |
-| Comercial | Número de RFPs en las que el producto es elegible técnicamente. |
-
----------------------------
-
-# ETRM Product Modernization (Energy Sector)
-
-This project highlights your ability to lead technological transition focused on commercial competitiveness.
-
-- **Objective:** Modernize a legacy application to improve its usability and success in tenders (RFPs).
-- **Scope:** Migration to an Angular Web App and UX design integration to transform the user experience.
-- **Methodology:** Scrum (with a small, highly efficient team).
-- **KPIs:** MVP delivery time and RFP eligibility ratio.
-- **Result:** Delivery of a functional MVP in just 6 months, enabling immediate participation in public and private tenders.
+## Tools & Methods
+Scrum, Angular, UX Design, Jira, BPMN 2.0, Java, SQL
 
 ---
 
-## Project Management Plan: ETRM Modernization
+# Modernización de Plataforma ETRM
+**Sector Energético | Product Owner y Project Manager | 2010-2018**
 
-**Product:** ETRM (Energy Trading and Risk Management)  
-**Approach:** Agile / Scrum  
-**Main Goal:** Functional MVP for RFPs in 6 months
+## Contexto
+Una consultora tecnológica española líder que presta servicios a operadores 
+energéticos nacionales disponía de un sistema ETRM (Energy Trading and Risk 
+Management) legacy que limitaba su competitividad en licitaciones públicas y 
+privadas. La arquitectura obsoleta y la escasa usabilidad generaban barreras de 
+entrada técnicas en los procesos de RFP, impactando directamente en las 
+oportunidades de negocio.
 
----
+## Mi Rol
+Product Owner y Project Manager responsable de la modernización end-to-end de 
+la plataforma, desde la definición de la arquitectura hasta la entrega del MVP, 
+liderando un equipo multidisciplinar de hasta 12 ingenieros, analistas y 
+diseñadores UX.
 
-## 1. Value Delivery System
+## Enfoque
+Se aplicó Scrum con ciclo de vida adaptativo que permitía ajustar el backlog 
+en función de los requisitos específicos identificados en las RFPs durante el 
+desarrollo. Se integraron especialistas en UX desde el inicio para garantizar 
+que el producto cumpliera los estándares funcionales y estéticos exigidos en 
+los procesos de licitación. Se mantuvo una alineación estrecha con el equipo 
+comercial para priorizar las funcionalidades de mayor impacto comercial.
 
-The purpose of this project is not just a technological update, but the commercial enablement of the company.
+## Entregables Clave
+- Migración completa de arquitectura legacy a una aplicación web Angular moderna
+- Rediseño completo de UI/UX integrando diseñadores especialistas durante todo 
+el proceso de desarrollo
+- MVP funcional entregado en 6 meses, habilitando la participación inmediata en 
+licitaciones públicas y privadas
+- Estandarización del diseño funcional y la arquitectura tecnológica en el 
+portfolio de aplicaciones del departamento de Energía
+- Framework de reutilización de componentes alineado con el roadmap de 
+arquitectura organizacional
 
-- **Business Objective:** Increase success rate in tenders (RFPs) through a competitive technological offering.
-- **Scope:**
-  - Complete migration from legacy architecture to a native Angular Web App.
-  - User interface redesign integrating UX specialists.
-- **Expected Result:** A product with high usability and cutting-edge technology that eliminates technical entry barriers in public and private tenders.
+## Resultados
+- Incremento del 75% en el ratio de contratos ganados (RFPs) gracias a la 
+mejora de usabilidad y el stack tecnológico moderno
+- MVP entregado dentro del objetivo de 6 meses, habilitando la elegibilidad 
+comercial inmediata
+- Mejora del 40% en el time-to-market mediante la implementación de prácticas 
+ágiles en equipos tradicionalmente en cascada
+- Programa multi-anual ejecutado con éxito sin interrumpir las operaciones de 
+negocio en curso
 
-## 2. Development Approach and Life Cycle Performance Domain
-
-Given the competitive environment and need for speed, an agile model is chosen.
-
-- **Methodology:** Scrum.
-- **Delivery Cadence:** Incremental deliveries every 2-4 weeks (Sprints), culminating in an MVP at 6 months.
-- **Life Cycle:** Adaptive, allowing backlog adjustments according to specific requirements identified in RFPs during development.
-
-## 3. Performance Domain Planning
-
-### A. Team Performance Domain
-
-- **Structure:** Small, highly efficient multidisciplinary team.
-- **Key Roles:**
-  - **Product Owner:** Responsible for prioritizing the backlog based on usability requirements and RFPs.
-  - **Development Team:** Angular developers and UX specialists.
-  - **Project Manager/Scrum Master:** Process facilitator and impediment remover.
-
-### B. Planning Domain
-
-- **Main Milestones:**
-  - **Month 1:** Angular architecture definition and initial UX prototyping.
-  - **Month 2-5:** Incremental development of critical ETRM modules under Scrum.
-  - **Month 6:** Final testing, usability polish, and MVP launch.
-
-### C. Delivery Domain
-
-- **Quality:** Quality is measured through usability. The inclusion of UX experts ensures that the product not only functions but meets the aesthetic and functional standards demanded in current markets.
-- **Definition of Done (DoD):** Migrated code, UX design applied, integration tests passed, and technical documentation updated.
-
-## 4. Uncertainty and Risk Management
-
-- **Technological Risk:** Possible incompatibilities between the legacy system and Angular.
-  - **Mitigation:** Proof of concept (PoC) in the first month.
-- **Market Risk:** That the MVP doesn't cover all points of a specific RFP.
-  - **Mitigation:** The Product Owner will maintain close contact with the sales team to prioritize the backlog.
-
-## 5. Success Metrics and KPIs (Measurement Domain)
-
-| KPI | Success Metric |
-|-----|----------------|
-| Time-to-Market | MVP delivery within a maximum of 6 months. |
-| Usability | Positive evaluation from UX specialists and pre-sales feedback. |
-| Commercial | Number of RFPs in which the product is technically eligible. |
-
+## Herramientas y Metodología
+Scrum, Angular, Diseño UX, Jira, BPMN 2.0, Java, SQL
