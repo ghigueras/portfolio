@@ -1,127 +1,94 @@
-# Project Management Plan: B2B Data Ecosystem & API Development
+# B2B Data Ecosystem & API Development
+**EdTech | Technical Product Owner | 2022-2024**
 
-**Producto:** Plataforma de Idiomas (Segmento Corporativo)  
-**Enfoque:** Agile / Scrum  
-**Meta Principal:** Habilitar el modelo de negocio B2B mediante la monitorización eficiente del progreso de empleados.
+## Context
+A global language learning platform with a strong B2C product needed to pivot 
+towards the corporate segment without disrupting the existing consumer 
+experience. Large enterprise clients required tools to monitor employee progress 
+efficiently, but the existing architecture was not designed for B2B data 
+consumption.
 
----
+## My Role
+Technical Product Owner responsible for defining the B2B product strategy, 
+managing the development backlog and coordinating integrations with external 
+systems.
 
-## 1. Sistema de Entrega de Valor (Value Delivery System)
+## Approach
+Applied Scrum with adaptive lifecycle to allow rapid technical adjustments 
+during API development. Worked in close collaboration with data engineers, 
+backend developers and Customer Success to ensure the solution addressed real 
+enterprise needs. Conducted direct interviews with B2B clients to validate 
+requirements before each development sprint.
 
-El proyecto busca pivotar la capacidad técnica de la aplicación para satisfacer las necesidades de grandes clientes, transformando datos de usuarios individuales en activos estratégicos para empresas.
+## Key Deliverables
+- Redesigned user data management architecture to support corporate-level 
+reporting
+- Built an exclusive data service for enterprise clients with role-based access 
+control
+- Developed a REST API ecosystem enabling B2B clients to query employee progress 
+metrics
+- Launched an enterprise dashboard providing actionable KPIs for HR and L&D 
+teams
+- Integrated with multiple LMS platforms and SSO providers following market 
+standards
 
-- **Objetivo de Negocio:** Adecuar la gestión de datos al modelo de negocio B2B para abrir nuevas líneas de ingresos corporativos.
-- **Alcance:**
-  - Rediseño de la arquitectura de gestión de datos de usuarios.
-  - Creación de un servicio de datos exclusivo para clientes corporativos.
-  - Desarrollo de un ecosistema de APIs para la consulta de métricas de progreso.
-- **Resultado esperado:** Proporcionar a los clientes B2B una herramienta que permita visualizar el avance de sus empleados de manera fácil y rápida.
+## Results
+- 90% reduction in SSO configuration time, dramatically accelerating client 
+onboarding
+- 50% increase in report downloads, exceeding 500 weekly downloads
+- 25% increase in enterprise dashboard usage after implementing business-relevant 
+metrics
+- Doubled B2B adoption rates through improved integration experience
 
-## 2. Dominio de Desempeño del Enfoque de Desarrollo y Ciclo de Vida
-
-Dado que el ecosistema de APIs requiere integraciones externas, se utiliza un ciclo de vida adaptativo que permita ajustes técnicos rápidos.
-
-- **Metodología:** Scrum (priorizando la entrega incremental de endpoints de la API).
-- **Cadencia:** Sprints definidos para la liberación gradual de funcionalidades de reporte de datos.
-- **Enfoque:** Centrado en el cliente corporativo, asegurando que la estructura de la API responda a sus necesidades de reporting.
-
-## 3. Planificación de los Dominios de Desempeño
-
-### A. Gestión del Equipo (Team Performance Domain)
-
-- **Product Manager:** Define los requisitos de los datos necesarios para los clientes B2B y prioriza el desarrollo de las APIs.
-- **Equipo de Desarrollo:** Ingenieros de datos y desarrolladores de backend especializados en APIs.
-- **Engineer Manager:** Facilita la coordinación para asegurar la consistencia de los datos entregados.
-
-### B. Dominio de la Planificación (Planning Domain)
-
-- **Hitos de Datos:**
-  1. Mapeo de métricas de progreso de empleados relevantes para empresas.
-  2. Construcción del servicio de datos exclusivo para aislamiento y seguridad corporativa.
-  3. Despliegue de la documentación y ecosistema de APIs para integración del cliente.
-
-### C. Dominio de Entrega y Trabajo del Proyecto (Delivery & Project Work)
-
-- **Valor de Entrega:** El éxito se define por la facilidad de acceso y la rapidez con la que el cliente B2B obtiene la información.
-- **Seguridad y Cumplimiento:** Gestión del acceso a datos sensibles de empleados bajo estándares corporativos.
-
-## 4. Gestión de la Incertidumbre (Uncertainty Domain)
-
-- **Riesgo de Integración:** Que las APIs no sean compatibles con los sistemas internos de los clientes.
-  - **Mitigación:** Desarrollo basado en estándares de mercado (REST/JSON) y creación de documentación técnica clara.
-- **Riesgo de Escalabilidad:** Aumento repentino de volumen de datos al sumar grandes cuentas B2B.
-  - **Mitigación:** Arquitectura del servicio de datos diseñada para escalado elástico.
-
-## 5. Métricas y KPIs de Éxito (Measurement Domain)
-
-| KPI | Métrica de Éxito |
-|-----|------------------|
-| Tiempo de Acceso | Reducción del tiempo que el cliente tarda en generar informes de progreso. |
-| Adopción de API | Porcentaje de clientes B2B que utilizan el ecosistema de APIs para su gestión. |
-| Integridad de Datos | Cero discrepancias entre el progreso real del usuario y el reportado vía API. |
-
---------------------
----
-
-# Project Management Plan: B2B Data Ecosystem & API Development
-
-**Product:** Language Platform (Corporate Segment)  
-**Approach:** Agile / Scrum  
-**Main Goal:** Enable the B2B business model through efficient employee progress monitoring.
+## Tools & Methods
+Scrum, REST APIs, Swagger, Jira, Amplitude, Datadog, Kanban
 
 ---
 
-## 1. Value Delivery System
+# Ecosistema de Datos B2B y Desarrollo de APIs
+**EdTech | Technical Product Owner | 2022-2024**
 
-The project seeks to pivot the application's technical capability to meet the needs of large clients, transforming individual user data into strategic assets for companies.
+## Contexto
+Una plataforma global de aprendizaje de idiomas con un sólido producto B2C 
+necesitaba pivotar hacia el segmento corporativo sin interrumpir la experiencia 
+del consumidor existente. Los grandes clientes empresariales requerían 
+herramientas para monitorizar el progreso de sus empleados de forma eficiente, 
+pero la arquitectura existente no estaba diseñada para el consumo de datos B2B.
 
-- **Business Objective:** Adapt data management to the B2B business model to open new corporate revenue streams.
-- **Scope:**
-  - Redesign of user data management architecture.
-  - Creation of an exclusive data service for corporate clients.
-  - Development of an API ecosystem for querying progress metrics.
-- **Expected Result:** Provide B2B clients with a tool that allows them to visualize their employees' progress easily and quickly.
+## Mi Rol
+Technical Product Owner responsable de definir la estrategia de producto B2B, 
+gestionar el backlog de desarrollo y coordinar las integraciones con sistemas 
+externos.
 
-## 2. Development Approach and Life Cycle Performance Domain
+## Enfoque
+Se aplicó Scrum con ciclo de vida adaptativo para permitir ajustes técnicos 
+rápidos durante el desarrollo de APIs. Se trabajó en estrecha colaboración con 
+ingenieros de datos, desarrolladores backend y Customer Success para garantizar 
+que la solución respondiera a las necesidades reales de los clientes 
+empresariales. Se realizaron entrevistas directas con clientes B2B para validar 
+requisitos antes de cada sprint de desarrollo.
 
-Given that the API ecosystem requires external integrations, an adaptive life cycle is used that allows for rapid technical adjustments.
+## Entregables Clave
+- Rediseño de la arquitectura de gestión de datos de usuarios para soportar 
+reporting a nivel corporativo
+- Construcción de un servicio de datos exclusivo para clientes empresariales con 
+control de acceso por roles
+- Desarrollo de un ecosistema de APIs REST que permite a los clientes B2B 
+consultar métricas de progreso de empleados
+- Lanzamiento de un dashboard empresarial con KPIs accionables para equipos de 
+RRHH y L&D
+- Integración con múltiples plataformas LMS y proveedores SSO siguiendo 
+estándares de mercado
 
-- **Methodology:** Scrum (prioritizing incremental delivery of API endpoints).
-- **Cadence:** Sprints defined for gradual release of data reporting functionalities.
-- **Approach:** Focused on the corporate client, ensuring that the API structure responds to their reporting needs.
+## Resultados
+- Reducción del 90% en el tiempo de configuración SSO, acelerando drásticamente 
+el onboarding de clientes
+- Incremento del 50% en descargas de reportes, superando las 500 descargas 
+semanales
+- Aumento del 25% en el uso del dashboard empresarial tras implementar métricas 
+de mayor relevancia para el negocio
+- Duplicación de las tasas de adopción B2B gracias a la mejora de la experiencia 
+de integración
 
-## 3. Performance Domain Planning
-
-### A. Team Performance Domain
-
-- **Product Owner:** Defines data requirements necessary for B2B clients and prioritizes API development.
-- **Development Team:** Data engineers and backend developers specialized in APIs.
-- **Scrum Master:** Facilitates coordination to ensure consistency of delivered data.
-
-### B. Planning Domain
-
-- **Data Milestones:**
-  1. Mapping of employee progress metrics relevant to companies.
-  2. Construction of exclusive data service for corporate isolation and security.
-  3. Deployment of documentation and API ecosystem for client integration.
-
-### C. Delivery & Project Work Domain
-
-- **Delivery Value:** Success is defined by ease of access and speed with which the B2B client obtains information.
-- **Security and Compliance:** Management of access to sensitive employee data under corporate standards.
-
-## 4. Uncertainty Domain Management
-
-- **Integration Risk:** That the APIs are not compatible with clients' internal systems.
-  - **Mitigation:** Development based on market standards (REST/JSON) and creation of clear technical documentation.
-- **Scalability Risk:** Sudden increase in data volume when adding large B2B accounts.
-  - **Mitigation:** Data service architecture designed for elastic scaling.
-
-## 5. Success Metrics and KPIs (Measurement Domain)
-
-| KPI | Success Metric |
-|-----|----------------|
-| Access Time | Reduction of time it takes the client to generate progress reports. |
-| API Adoption | Percentage of B2B clients using the API ecosystem for their management. |
-| Data Integrity | Zero discrepancies between actual user progress and that reported via API. |
-
+## Herramientas y Metodología
+Scrum, APIs REST, Swagger, Jira, Amplitude, Datadog, Kanban
