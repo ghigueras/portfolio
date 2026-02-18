@@ -1,38 +1,55 @@
-# Portfolio
-(English version below)
+# Project Portfolio | Guillermo Higueras Iglesias
+## IT Project Manager (PMP) · Technical Product Owner
 
-**Project portfolio as a PO/PM**
+PMP-certified IT Project Manager and Technical Product Owner with 15+ years 
+delivering complex digital products in energy, edtech and banking. I combine 
+the rigour of a certified PM — budget control, EVM, risk management, 
+stakeholder alignment — with the technical depth of a Senior Java Engineer, 
+which means I can bridge business and development in a way that most PMs cannot.
 
-## Product Owner / Project Manager (Agile Specialist)
+This portfolio showcases three real projects where I led delivery end-to-end, 
+from discovery to production. All cases are anonymised to protect client 
+confidentiality.
 
-Profesional con una sólida trayectoria en el liderazgo de proyectos tecnológicos complejos, especializado en la aplicación del marco de trabajo Scrum para transformar la visión de negocio en productos de alto impacto. Mi enfoque combina la agilidad operativa con una visión estratégica orientada a la usabilidad (UX), la eficiencia de costes y la apertura de nuevas oportunidades de mercado.
+---
 
-## Áreas de Especialización y Logros Clave:
+## Featured Projects
 
-- **Modernización y Estrategia de Producto:** Experto en liderar la migración de sistemas legacy hacia arquitecturas modernas, priorizando la integración de especialistas en UX para maximizar la competitividad en procesos de RFP. Cuento con la capacidad probada de entregar MVPs funcionales en plazos cortos (6 meses), permitiendo una rápida validación de mercado.
+### 🔋 [ETRM Platform Modernization](./etrm/Readme.md)
+**Energy Sector | Product Owner & Project Manager | 2010-2018**
+Led the multi-year modernisation of a legacy Energy Trading and Risk Management 
+system for a major Spanish technology consultancy. Result: 75% increase in RFP 
+win rate and MVP delivered in 6 months.
 
-- **Eficiencia Operativa en Entornos Mobile:** Capacidad demostrada para impulsar el desarrollo de aplicaciones nativas (Android / iOS) con el doble objetivo de reducir costes operativos de hardware y elevar la calidad del software, logrando una disminución tangible en los reportes de bugs por parte del usuario final.
+### 📱 [Mobile Application Migration & Optimisation](./mobile/Readme.md)
+**Industrial Security | Product Owner & Project Manager | 2019-2022**
+Led the end-to-end migration of a critical field inspection app from iOS to 
+Android. Result: 70% increase in customer satisfaction, 100% customer base 
+growth and 40% reduction in operational costs.
 
-- **Escalabilidad B2B y Ecosistemas de Datos:** Especialista en adaptar productos para el sector corporativo, liderando el desarrollo de servicios de datos exclusivos y ecosistemas de APIs que permiten a los clientes B2B gestionar información crítica de forma rápida y eficiente.
+### 🌐 [B2B Data Ecosystem & API Development](./b2b/Readme.md)
+**EdTech | Technical Product Owner | 2022-2024**
+Led the B2B pivot of a global language learning platform through API ecosystem 
+development and enterprise dashboard. Result: 90% reduction in SSO 
+configuration time and 50% increase in report downloads.
 
-- **Liderazgo Scrum:** A lo largo de mi carrera, he utilizado de forma consistente la metodología Scrum para gestionar backlogs, facilitar la entrega incremental de valor y fomentar la mejora continua en equipos multidisciplinares.
+---
 
+## Core Expertise
 
-# --
+- **Project Management:** EVM, risk management, budget control, executive reporting
+- **Product Ownership:** Roadmapping, backlog management, User Stories, OKRs
+- **Agile Methodologies:** Scrum (certified), Kanban, hybrid approaches
+- **Technical Background:** REST APIs, Java, SQL, system integration, BPMN 2.0
+- **Tools:** Jira, MS Project, Confluence, Miro, Postman, Amplitude, Datadog
 
-**Project portfolio as a PO/PM**
+---
 
-## Product Owner / Project Manager (Agile Specialist)
+## Let's Work Together
 
-Professional with a solid track record in leading complex technological projects, specialized in applying the Scrum framework to transform business vision into high-impact products. My approach combines operational agility with a strategic vision focused on usability (UX), cost efficiency, and opening new market opportunities.
+Available for remote freelance engagements across Europe and full-time 
+opportunities in product and project leadership roles.
 
-## Areas of Specialization and Key Achievements:
-
-- **Product Modernization and Strategy:** Expert in leading the migration of legacy systems to modern architectures such as Angular, prioritizing the integration of UX specialists to maximize competitiveness in RFP processes. I have a proven ability to deliver functional MVPs in short timeframes (6 months), enabling rapid market validation.
-
-- **Operational Efficiency in Mobile Environments:** Demonstrated capacity to drive the development of native applications (Android) with the dual objective of reducing hardware operational costs and elevating software quality, achieving a tangible decrease in bug reports from end users.
-
-- **B2B Scalability and Data Ecosystems:** Specialist in adapting products for the corporate sector, leading the development of exclusive data services and API ecosystems that enable B2B clients to manage critical information quickly and efficiently.
-
-- **Scrum Leadership:** Throughout my career, I have consistently used the Scrum methodology to manage backlogs, facilitate incremental value delivery, and foster continuous improvement in multidisciplinary teams.
-
+📧 guillermo.higueras@outlook.es  
+🔗 [LinkedIn](https://linkedin.com/in/tu-perfil)  
+🛠️ [Malt Profile](https://malt.es/tu-perfil)
