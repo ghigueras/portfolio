@@ -33,6 +33,14 @@ Led the B2B pivot of a global language learning platform through API ecosystem
 development and enterprise dashboard. Result: 90% reduction in SSO 
 configuration time and 50% increase in report downloads.
 
+### 🤖 [Algorithmic Trading System](./trading/Readme.md)
+**Personal Project | Python, REST APIs, Machine Learning**
+Designed and built from scratch an automated trading system integrated with
+Oanda's REST API, capable of operating in live forex and index markets using
+custom strategies based on technical indicators. Extended with machine learning
+models for market direction prediction (bull/bear) after completing a Master's
+in Big Data and Machine Learning. Backtesting code available on GitHub.
+
 ---
 
 ## Core Expertise
