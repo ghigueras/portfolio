@@ -1,5 +1,5 @@
 # Algorithmic Trading System
-**Personal Project | Python, R, REST APIs, Machine Learning | 2015-Present**
+**Personal Project | Python, R, REST APIs, Machine Learning | 2020-Present**
 
 ## Context
 Motivated by a deep interest in financial markets and a desire to apply software
